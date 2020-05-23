@@ -1,0 +1,500 @@
+﻿X,A01,A02,A03,A04,A05,A06,A07,A08,A09,A10,Age,Gdr,Jaundic,Nationality,Rel,Autism
+163,0,0,0,0,0,0,0,1,0,1,34,0,0,Asian,Self,NO
+143,1,0,1,0,0,0,0,1,0,1,25,1,0,Latin America,Self,NO
+86,1,0,0,0,0,0,0,1,1,0,27,0,0,Middle Eastern ,Self,NO
+405,0,1,0,1,1,0,0,0,1,1,19,0,0,Asian,Self,NO
+647,1,1,1,1,0,0,0,0,0,0,38,0,0,African,Self,NO
+190,1,1,1,0,1,0,1,0,1,1,26,1,0,Latin America,Self,NO
+680,1,1,1,1,1,1,1,1,1,0,44,1,0,Latin America,Self,NO
+427,1,0,1,1,1,1,0,1,0,0,24,1,0,North American,Self,NO
+314,1,0,1,1,1,1,0,1,1,0,19,1,0,Latin America,Self,NO
+230,1,1,1,1,1,1,1,1,0,1,31,0,0,Asian,Self,NO
+287,0,0,0,0,0,0,0,0,1,0,40,1,0,Asian,Self,NO
+403,1,0,0,1,0,0,1,0,0,0,23,0,0,Middle Eastern ,Self,NO
+511,0,1,1,1,1,1,1,1,0,0,22,0,0,Middle Eastern ,Self,NO
+217,1,0,0,0,0,0,1,1,1,1,37,0,1,Asian,Health care professional,NO
+341,1,0,1,1,0,0,1,1,1,1,21,0,0,Asian,Others,NO
+566,0,1,0,0,0,0,0,1,0,1,28,0,0,Latin America,Self,NO
+505,1,0,1,1,1,0,1,1,1,1,24,1,0,Latin America,Relative,NO
+49,0,1,1,0,0,1,0,0,1,1,55,1,0,Middle Eastern ,Relative,NO
+214,1,0,1,1,0,0,0,0,1,0,34,0,0,Middle Eastern ,Self,NO
+642,1,0,1,1,1,0,1,1,0,1,29,1,0,North American,Self,NO
+569,1,1,1,1,1,1,0,1,0,0,27,0,1,Asian,Self,NO
+201,1,1,1,1,1,0,1,1,0,1,21,0,0,African,Self,NO
+430,1,0,1,0,1,0,1,1,1,0,20,1,0,Asian,Others,NO
+310,1,1,1,1,1,1,0,1,0,1,58,0,0,Latin America,Self,NO
+429,0,0,0,0,1,0,1,0,0,1,20,0,0,North American,Others,NO
+251,1,0,0,0,0,0,1,1,1,0,41,1,0,European,Self,NO
+493,1,0,0,0,1,0,1,1,1,0,33,1,0,Asian,Self,NO
+670,1,1,1,1,1,1,1,1,0,1,47,1,0,European,Self,NO
+210,1,0,0,1,1,1,1,1,0,0,28,0,0,North American,Self,NO
+544,0,1,1,1,1,1,1,1,0,0,30,0,0,North American,Self,NO
+311,1,0,1,0,0,0,0,0,1,1,36,0,0,North American,Self,NO
+19,0,0,1,0,1,1,0,0,1,1,35,0,0,Latin America,Self,NO
+267,1,0,0,1,0,0,0,0,0,1,25,1,0,European,Self,NO
+582,1,1,0,0,1,0,0,0,0,0,40,0,0,African,Parent,NO
+484,1,1,1,1,0,0,1,1,0,0,25,1,0,Middle Eastern ,Self,NO
+321,1,1,0,0,0,0,0,0,1,1,18,0,0,Middle Eastern ,Self,NO
+540,0,1,1,1,1,1,0,0,0,1,24,1,0,North American,Relative,NO
+56,1,1,1,1,1,1,0,1,1,1,30,0,0,African,Self,NO
+262,1,0,1,0,1,0,0,1,1,1,27,0,0,African,Self,NO
+203,1,1,0,1,1,0,0,1,1,1,25,0,0,African,Self,NO
+26,0,1,1,0,0,0,0,1,0,1,24,0,1,African,Others,NO
+283,0,1,1,0,1,1,1,0,1,1,32,0,0,North American,Parent,NO
+118,1,1,1,0,1,0,1,1,0,0,27,1,0,North American,Self,NO
+521,1,1,1,1,1,0,0,1,1,0,26,0,0,Middle Eastern ,Self,NO
+490,1,1,1,1,0,0,0,1,0,1,18,0,0,European,Self,NO
+343,1,0,1,1,0,0,0,0,0,0,21,0,0,Latin America,Others,NO
+363,0,0,0,0,1,0,0,1,0,1,20,1,0,North American,Parent,NO
+691,0,0,0,0,1,0,0,0,0,0,31,0,1,Middle Eastern ,Self,NO
+52,1,1,1,1,1,1,1,1,1,1,35,0,0,Latin America,Parent,NO
+432,1,1,1,1,1,1,1,1,1,1,61,1,1,European,Self,NO
+219,1,1,0,1,1,0,1,1,0,0,18,1,0,North American,Self,NO
+541,1,1,1,1,1,1,0,1,1,1,24,1,0,African,Relative,NO
+411,1,1,0,1,0,0,0,0,0,1,20,0,0,Latin America,Self,NO
+495,1,1,1,1,0,0,1,0,1,1,26,1,0,North American,Self,NO
+129,1,0,1,1,0,0,1,0,1,0,40,0,0,North American,Self,NO
+93,0,0,0,1,1,1,0,1,1,0,22,0,0,Middle Eastern ,Self,NO
+168,1,0,0,0,1,0,1,1,1,0,27,0,0,Latin America,Self,NO
+433,1,0,0,1,1,0,0,0,0,0,19,1,0,Latin America,Others,NO
+583,1,1,0,0,1,1,0,1,1,0,40,0,1,Asian,Relative,NO
+625,1,0,0,0,0,0,0,1,0,0,29,0,0,North American,Self,NO
+658,1,1,0,0,1,0,1,0,0,1,36,1,0,Middle Eastern ,Self,NO
+630,1,0,0,0,1,0,1,1,1,0,23,0,0,European,Self,NO
+383,1,1,1,1,1,0,1,0,0,0,21,0,0,North American,Health care professional,NO
+455,1,1,0,0,0,0,1,0,0,1,17,0,0,European,Self,NO
+574,1,1,1,1,1,1,1,1,1,1,44,1,0,African,Self,NO
+186,1,0,1,1,1,1,1,0,0,0,28,1,0,North American,Self,NO
+6,1,1,1,1,1,0,1,1,1,1,36,1,1,Latin America,Self,NO
+245,1,0,1,0,1,0,1,1,1,1,30,1,0,Asian,Self,NO
+387,1,0,0,1,0,0,0,0,1,1,22,0,0,Latin America,Others,NO
+410,1,1,0,0,0,0,0,0,0,1,22,0,0,North American,Self,NO
+297,1,1,1,1,1,1,0,0,0,1,19,0,1,African,Parent,NO
+80,1,1,0,0,0,0,0,0,0,0,45,0,1,Middle Eastern ,Others,NO
+651,1,1,0,0,0,0,0,0,1,1,32,0,1,Asian,Self,NO
+183,0,1,0,1,1,1,0,1,0,1,31,1,0,European,Others,NO
+402,1,0,0,0,0,0,0,1,0,0,26,0,0,Middle Eastern ,Others,NO
+4,1,1,0,1,0,0,1,1,1,0,35,0,0,African,Self,NO
+409,1,0,0,1,1,0,0,1,0,0,19,0,0,Middle Eastern ,Self,NO
+148,1,1,1,1,1,1,1,1,0,1,19,0,0,African,Self,NO
+171,1,0,1,1,0,0,1,1,1,0,55,1,0,Latin America,Self,NO
+488,1,1,0,1,1,1,0,0,0,0,30,0,0,Asian,Self,NO
+30,0,1,1,0,0,0,0,0,1,0,31,1,0,European,Self,NO
+250,1,0,0,1,1,1,1,1,1,1,20,1,0,African,Self,NO
+352,1,1,0,0,0,0,1,1,1,0,19,1,0,Middle Eastern ,Others,NO
+554,1,1,1,0,1,0,1,0,0,0,18,1,0,European,Self,NO
+678,1,0,0,0,0,0,1,0,0,1,18,1,0,North American,Health care professional,NO
+149,1,1,0,0,1,1,1,1,1,0,37,0,0,European,Self,NO
+510,0,1,0,0,0,0,0,0,0,0,40,0,1,North American,Self,NO
+154,0,0,1,0,1,0,1,0,0,0,30,1,0,North American,Self,NO
+612,1,0,0,0,1,0,1,1,0,0,24,1,0,Middle Eastern ,Self,NO
+690,1,0,0,0,1,1,1,1,0,1,39,0,0,North American,Self,NO
+197,1,1,1,1,1,1,1,1,1,1,28,1,0,Middle Eastern ,Self,NO
+423,1,0,1,0,0,1,0,1,0,1,23,0,0,Middle Eastern ,Self,NO
+337,1,0,0,1,1,1,0,0,1,0,47,1,0,European,Self,NO
+536,0,1,0,0,1,0,0,0,0,1,24,1,0,Asian,Others,NO
+494,1,1,1,1,1,1,1,1,1,1,33,1,0,North American,Self,NO
+31,0,0,0,0,0,0,0,0,1,0,18,1,0,African,Self,NO
+451,1,1,0,0,0,0,0,1,0,1,19,0,0,Asian,Self,NO
+431,1,1,1,1,1,1,1,0,1,1,32,0,0,Latin America,Parent,NO
+501,0,1,1,1,1,0,0,0,1,1,48,0,0,Middle Eastern ,Parent,NO
+545,1,0,1,1,1,1,1,1,1,0,35,0,1,North American,Self,NO
+333,1,0,0,1,1,1,1,0,1,1,55,1,0,African,Self,NO
+394,1,1,0,0,0,0,0,1,1,1,21,0,0,European,Self,NO
+618,0,0,0,1,1,0,0,1,1,1,22,1,0,North American,Self,NO
+246,1,0,0,0,0,0,1,1,1,0,29,0,0,North American,Self,NO
+22,0,0,0,0,0,0,0,0,0,0,27,0,0,Asian,Self,NO
+178,0,0,1,1,1,0,0,1,1,1,29,1,0,North American,Self,NO
+206,1,1,1,1,1,1,1,1,1,1,53,1,0,African,Self,NO
+199,1,1,1,0,1,1,0,1,1,1,31,1,0,North American,Self,NO
+445,0,1,1,1,1,1,0,1,1,1,35,0,0,Middle Eastern ,Self,NO
+434,1,1,1,1,1,1,0,1,0,0,35,0,0,North American,Self,NO
+553,0,0,1,0,0,0,0,0,1,1,20,1,0,African,Self,NO
+479,1,0,0,0,1,0,0,1,1,1,30,0,0,European,Self,NO
+704,1,0,1,1,1,0,1,1,0,0,26,0,0,North American,Self,NO
+620,1,0,0,1,0,0,0,1,0,1,30,1,0,Asian,Self,NO
+42,0,0,0,0,1,1,0,0,0,1,28,0,0,African,Self,NO
+686,1,0,1,1,1,0,0,1,1,0,38,1,0,Middle Eastern ,Self,NO
+571,1,1,0,1,0,0,0,0,0,1,31,1,0,Asian,Self,NO
+278,1,1,0,0,0,0,0,0,0,1,32,0,0,African,Others,NO
+616,1,0,1,1,0,1,0,1,0,0,27,0,0,African,Self,NO
+101,0,1,1,0,0,0,0,1,0,0,26,0,0,Middle Eastern ,Self,NO
+507,1,0,1,0,0,0,1,0,0,0,41,1,0,North American,Self,NO
+9,1,1,0,0,1,0,0,1,0,0,29,1,0,Middle Eastern ,Self,NO
+63,0,0,0,0,0,0,0,0,1,1,28,1,0,Latin America,Others,NO
+309,1,1,1,1,1,1,0,0,0,0,25,0,0,European,Self,NO
+388,1,0,1,1,1,0,1,1,1,0,21,0,1,African,Others,NO
+413,0,0,1,1,1,0,0,1,1,0,24,0,0,Middle Eastern ,Self,NO
+38,1,0,1,1,1,1,0,0,1,1,34,0,0,African,Self,NO
+98,1,0,0,1,1,0,1,0,0,1,22,1,0,Middle Eastern ,Self,NO
+233,1,1,0,0,1,0,0,0,0,0,22,1,0,North American,Self,NO
+150,1,1,1,1,1,0,1,1,1,1,35,1,1,North American,Self,NO
+286,0,0,0,1,1,1,1,0,0,1,32,0,0,African,Others,NO
+372,1,0,0,1,1,0,0,1,0,0,21,0,0,North American,Self,NO
+379,1,0,0,0,0,0,0,1,1,1,20,0,0,European,Others,NO
+53,1,0,0,0,0,0,0,0,1,1,383,0,0,Asian,Self,NO
+212,0,0,0,1,0,1,0,1,0,1,30,1,0,African,Self,NO
+453,1,1,1,1,1,0,0,1,1,1,36,0,0,Middle Eastern ,Self,NO
+515,1,1,1,1,1,0,1,1,0,0,30,0,0,European,Self,NO
+359,1,0,0,1,0,0,1,0,1,1,22,1,0,Middle Eastern ,Self,NO
+513,1,1,1,0,0,0,0,0,0,0,18,0,0,North American,Self,NO
+457,1,1,0,1,1,0,0,0,0,1,18,1,0,Latin America,Self,NO
+469,1,1,1,1,1,1,1,1,0,1,27,0,0,North American,Self,NO
+381,0,0,0,1,0,0,1,0,1,0,20,0,0,Asian,Others,NO
+116,1,0,1,1,1,1,0,1,0,0,38,0,0,Middle Eastern ,Parent,NO
+617,1,0,0,0,1,0,1,0,0,1,23,1,0,African,Self,NO
+323,1,1,1,0,1,1,1,1,1,1,22,1,0,Middle Eastern ,Self,NO
+241,1,0,0,1,1,0,1,1,1,1,21,1,0,Asian,Self,NO
+225,1,1,1,1,1,1,1,0,1,1,21,0,0,North American,Self,NO
+191,1,1,1,1,1,1,0,1,0,1,37,1,0,Middle Eastern ,Self,NO
+73,1,0,1,1,0,0,1,1,1,0,21,1,0,African,Self,NO
+257,1,0,0,0,0,1,0,1,1,1,24,1,0,African,Self,NO
+702,1,0,1,1,1,0,1,1,0,0,24,0,0,North American,Health care professional,NO
+334,1,0,0,0,0,1,1,0,1,0,32,0,0,Middle Eastern ,Parent,NO
+367,1,0,1,0,1,0,0,1,1,0,23,1,0,Latin America,Self,NO
+313,1,0,1,0,1,1,1,1,0,1,19,1,0,African,Self,NO
+282,1,1,1,1,1,0,0,1,0,1,33,1,0,Asian,Self,NO
+69,1,0,0,0,1,0,1,0,0,0,35,1,0,Asian,Self,NO
+516,1,1,1,1,1,1,0,1,0,1,42,1,0,Latin America,Self,NO
+476,1,0,0,0,0,1,0,1,1,1,27,0,0,European,Self,NO
+422,0,0,0,0,0,0,1,0,0,1,27,1,0,North American,Self,NO
+300,1,1,1,1,1,1,1,0,0,0,19,0,1,Latin America,Self,NO
+639,1,1,0,1,1,0,0,1,0,1,18,1,0,North American,Self,NO
+79,1,0,0,1,1,0,0,0,0,1,20,1,0,African,Self,NO
+546,1,0,1,1,1,1,1,0,1,0,35,0,1,North American,Self,NO
+377,1,0,0,0,0,0,0,1,1,0,20,0,0,Middle Eastern ,Self,NO
+487,1,1,1,1,1,1,1,0,0,1,43,1,0,Latin America,Self,NO
+573,1,0,0,1,0,0,0,1,1,1,47,1,0,Asian,Others,NO
+679,1,1,1,1,1,0,0,1,1,1,43,0,0,European,Self,NO
+277,1,0,0,0,1,0,0,0,0,0,30,1,0,Asian,Others,NO
+254,0,0,0,1,0,0,1,0,1,0,23,1,0,North American,Self,NO
+339,1,0,1,0,0,0,1,1,1,0,22,0,0,African,Others,NO
+115,1,1,0,1,1,1,1,1,1,0,29,0,0,Latin America,Self,NO
+68,1,0,1,0,1,1,1,1,1,0,21,1,0,European,Self,NO
+633,0,0,1,0,0,0,0,1,0,1,28,0,0,Asian,Parent,NO
+295,0,0,0,0,0,0,0,0,0,0,40,0,0,Middle Eastern ,Parent,NO
+681,1,1,1,1,1,1,1,1,0,0,40,1,1,North American,Parent,NO
+1,1,1,1,1,0,0,1,1,0,0,26,0,0,Asian,Self,NO
+629,1,0,0,0,1,0,1,1,0,0,23,0,0,Latin America,Self,NO
+200,1,1,1,1,0,0,0,0,1,1,31,0,0,African,Self,NO
+57,1,0,1,1,1,1,0,1,0,0,28,0,0,Asian,Self,NO
+682,1,1,0,1,1,1,1,1,1,1,49,0,0,North American,Self,NO
+288,1,0,0,1,1,0,0,1,1,0,40,1,0,Asian,Self,NO
+103,1,0,0,0,0,0,0,0,0,0,26,1,0,Latin America,Self,NO
+663,1,0,0,1,1,1,0,0,0,0,25,1,0,African,Self,NO
+32,1,0,0,1,1,1,1,1,0,1,37,0,0,North American,Self,NO
+74,1,1,1,0,0,0,0,1,1,0,21,1,0,Middle Eastern ,Self,NO
+10,1,1,1,1,0,1,1,1,1,0,17,1,1,North American,Health care professional,NO
+645,1,0,1,1,1,0,0,1,1,0,17,1,1,Middle Eastern ,Parent,NO
+461,0,0,0,1,0,0,0,0,0,0,52,0,0,Asian,Self,NO
+290,1,1,1,0,1,1,1,0,0,0,56,1,1,Asian,Self,NO
+296,1,0,1,1,1,1,0,0,0,1,45,0,0,North American,Self,NO
+284,1,1,1,1,1,1,1,1,1,1,44,0,0,North American,Self,NO
+180,1,0,1,0,1,0,1,0,1,0,37,1,0,European,Self,NO
+482,0,0,0,0,0,0,0,1,0,1,37,1,0,North American,Parent,NO
+146,1,0,0,1,1,1,1,1,0,1,28,1,0,Asian,Parent,NO
+560,0,1,1,1,1,1,0,0,0,0,19,0,1,Middle Eastern ,Self,NO
+280,0,1,1,0,1,0,0,0,0,0,26,1,1,Latin America,Self,NO
+21,0,1,1,1,0,0,0,0,1,1,38,1,0,Latin America,Others,NO
+66,1,0,1,0,0,0,0,1,1,1,21,1,0,African,Self,NO
+610,1,0,0,1,0,0,1,1,1,0,25,1,0,Latin America,Self,NO
+626,1,0,1,0,1,0,1,1,1,0,22,0,0,Asian,Self,NO
+535,0,0,0,1,1,0,1,0,0,1,19,0,0,North American,Others,NO
+139,1,0,0,0,0,0,1,0,1,0,22,1,0,Middle Eastern ,Self,NO
+623,1,0,0,0,1,0,1,1,0,1,22,0,0,African,Self,NO
+425,1,1,1,1,0,0,1,0,0,1,23,1,0,North American,Self,NO
+122,1,0,1,1,1,1,1,1,1,0,17,0,0,African,Self,NO
+695,1,1,1,1,1,0,0,1,0,0,27,1,1,Asian,Self,NO
+229,0,0,0,1,1,0,1,1,1,1,21,1,0,European,Self,NO
+213,1,1,0,0,0,1,1,1,0,1,32,0,0,Asian,Self,NO
+533,0,1,1,1,0,0,0,0,1,0,35,0,1,North American,Self,NO
+315,1,0,0,1,1,0,0,1,1,1,22,0,0,North American,Self,NO
+660,1,1,1,1,1,1,0,0,0,0,44,1,0,North American,Health care professional,NO
+635,1,0,1,0,1,0,1,1,1,0,22,1,0,Latin America,Self,NO
+338,1,1,0,0,0,0,0,0,0,0,20,1,0,Latin America,Others,NO
+358,1,0,0,0,0,0,0,1,0,0,19,0,0,Latin America,Self,NO
+673,1,1,1,1,1,0,1,1,0,1,21,1,0,European,Self,NO
+415,1,0,1,1,1,0,1,1,0,0,19,0,0,Middle Eastern ,Self,NO
+34,1,1,1,1,1,1,1,1,1,0,18,0,1,Latin America,Self,NO
+699,1,1,1,1,1,1,1,1,0,1,27,0,0,Middle Eastern ,Self,NO
+55,1,1,1,1,1,1,1,1,0,0,47,1,0,Middle Eastern ,Self,NO
+637,0,0,0,0,0,0,0,0,1,0,27,0,0,Middle Eastern ,Others,NO
+421,1,0,1,0,1,0,1,1,1,1,26,0,0,Asian,Self,NO
+426,1,0,0,0,0,0,1,1,1,0,23,1,0,Middle Eastern ,Others,NO
+503,0,1,0,0,1,0,1,1,0,1,37,1,0,North American,Self,NO
+340,1,0,0,0,0,0,1,0,0,1,21,0,0,North American,Others,NO
+78,1,1,0,1,1,1,1,1,1,0,33,0,0,North American,Self,NO
+397,1,1,1,0,1,0,0,0,1,1,20,0,0,Asian,Self,NO
+656,1,0,0,1,1,0,1,0,0,1,38,0,0,Latin America,Self,NO
+354,1,0,1,0,0,0,1,0,0,0,26,1,0,Middle Eastern ,Others,NO
+674,1,1,1,0,1,0,1,1,0,0,31,1,0,North American,Self,NO
+436,0,0,1,1,0,0,0,0,1,0,23,0,0,North American,Self,NO
+646,1,0,1,1,0,0,1,1,1,1,17,1,0,African,Health care professional,NO
+468,1,0,1,1,0,1,0,0,0,0,17,1,0,North American,Relative,NO
+389,1,1,0,0,1,0,0,1,0,1,20,0,0,North American,Others,NO
+244,0,0,1,0,1,1,0,0,1,1,34,1,0,Middle Eastern ,Self,NO
+318,0,0,0,1,1,0,0,1,0,1,19,1,0,European,Self,NO
+185,0,0,1,1,1,0,1,0,1,1,22,1,0,Asian,Self,NO
+46,1,0,1,1,1,1,0,1,0,1,53,0,0,African,Relative,NO
+84,0,0,1,0,1,0,0,1,1,0,42,0,0,North American,Self,NO
+531,1,0,0,0,1,0,0,0,1,1,30,0,0,Asian,Self,NO
+581,0,0,1,1,0,0,0,0,0,0,44,1,0,Middle Eastern ,Self,NO
+465,1,1,0,1,1,1,1,1,1,0,29,0,1,Asian,Self,NO
+285,0,1,0,0,0,0,1,0,0,1,47,0,1,Latin America,Self,NO
+404,1,0,0,1,0,0,1,0,0,0,28,0,0,Asian,Others,NO
+512,1,1,1,1,1,1,1,0,0,0,42,1,0,European,Self,NO
+605,1,0,0,0,0,0,1,0,0,0,35,0,0,African,Self,NO
+473,1,0,1,1,1,0,0,0,1,1,23,0,0,Middle Eastern ,Self,NO
+657,1,0,0,0,1,0,1,0,1,0,22,1,0,Asian,Self,NO
+382,1,0,0,0,0,0,0,1,1,1,23,0,0,European,Others,NO
+335,1,1,0,1,0,0,1,1,0,0,50,1,1,African,Self,NO
+138,0,0,0,0,1,0,0,0,0,1,25,1,0,Middle Eastern ,Self,NO
+102,1,0,0,0,0,0,0,1,1,1,39,0,0,Asian,Self,NO
+137,0,1,1,0,0,1,0,0,1,1,24,1,0,Middle Eastern ,Self,NO
+303,0,0,1,1,1,1,1,1,1,1,48,0,0,African,Self,NO
+269,1,0,1,1,1,0,0,1,0,1,34,0,0,North American,Self,NO
+496,1,0,1,1,0,0,0,0,1,0,61,0,0,Middle Eastern ,Self,NO
+173,0,0,1,1,1,0,0,0,1,0,22,0,0,Latin America,Self,NO
+36,0,0,1,0,0,0,0,0,1,0,55,1,0,Asian,Self,NO
+524,1,1,0,1,1,1,0,0,1,1,21,1,1,European,Parent,NO
+395,1,0,0,0,1,1,0,1,1,0,22,0,0,Asian,Self,NO
+60,1,1,1,1,0,0,0,1,0,1,44,0,0,Latin America,Self,NO
+237,1,0,0,0,1,1,1,1,0,1,25,1,0,North American,Self,NO
+441,1,0,1,1,1,0,1,0,0,1,17,1,0,North American,Relative,NO
+396,0,1,1,1,0,1,0,1,0,1,19,0,0,Asian,Others,NO
+634,1,1,0,0,1,0,0,1,1,0,25,0,0,Latin America,Self,NO
+697,1,1,1,1,1,1,0,1,0,1,31,1,0,European,Self,NO
+91,1,0,1,1,0,0,0,0,0,1,17,0,0,North American,Self,NO
+615,1,1,0,1,0,0,0,1,0,0,21,0,0,Latin America,Self,NO
+82,1,0,0,0,0,0,1,0,1,1,30,1,0,North American,Others,NO
+243,1,0,0,0,1,0,0,1,1,0,24,0,0,Latin America,Self,NO
+47,1,1,1,1,0,1,0,0,0,1,24,0,0,Latin America,Relative,NO
+179,1,0,1,0,1,0,0,1,1,0,29,1,0,African,Self,NO
+543,0,1,1,1,1,1,1,1,1,0,30,0,0,North American,Self,NO
+483,0,0,0,0,0,0,1,0,1,1,28,0,0,African,Self,NO
+477,0,0,0,0,0,0,0,0,1,0,43,0,0,African,Parent,NO
+549,1,1,1,1,0,0,1,0,0,1,52,1,0,Asian,Self,NO
+538,0,1,0,0,1,1,0,0,0,0,52,1,0,European,Others,NO
+99,1,1,0,0,0,0,0,1,0,0,26,0,0,Middle Eastern ,Self,NO
+609,1,0,0,0,0,0,0,0,0,0,33,1,0,Middle Eastern ,Self,NO
+517,1,1,0,1,0,0,1,0,0,1,35,0,0,European,Parent,NO
+603,1,0,1,0,0,0,0,0,0,1,26,0,0,Middle Eastern ,Self,NO
+631,1,1,0,1,1,0,1,1,1,0,32,1,0,Asian,Self,NO
+39,1,0,0,1,1,1,1,0,0,1,53,0,0,European,Self,NO
+459,0,1,1,1,1,1,0,1,0,0,18,1,1,Middle Eastern ,Self,NO
+447,1,0,0,1,1,0,1,1,0,1,20,0,0,Middle Eastern ,Self,NO
+416,1,0,1,0,0,0,0,0,0,1,19,0,0,Middle Eastern ,Self,NO
+220,1,0,0,1,0,0,0,0,1,0,54,0,0,Latin America,Parent,NO
+202,1,1,0,1,1,0,0,0,0,0,25,0,0,Middle Eastern ,Self,NO
+174,1,0,0,0,0,0,0,1,0,1,42,0,0,Latin America,Parent,NO
+205,1,0,1,1,0,0,0,0,1,0,39,1,0,Asian,Self,NO
+188,1,0,0,0,0,0,1,1,0,0,28,0,0,European,Self,NO
+85,1,1,0,0,0,0,0,0,0,0,17,0,0,North American,Self,NO
+514,1,0,1,1,0,0,0,0,1,1,44,0,0,European,Self,NO
+238,1,0,0,0,0,0,0,0,1,1,17,1,0,North American,Self,NO
+666,1,1,1,1,1,1,1,0,0,0,34,1,0,African,Self,NO
+458,0,0,0,0,0,0,1,0,1,0,30,1,0,African,Self,NO
+559,1,1,1,1,1,1,1,1,0,1,22,0,0,Middle Eastern ,Self,NO
+181,1,0,0,0,1,0,1,0,0,0,39,0,0,North American,Self,NO
+271,1,0,1,1,1,1,0,0,0,0,22,0,0,European,Others,NO
+196,1,0,1,1,1,1,1,1,1,0,53,0,0,Middle Eastern ,Self,NO
+655,1,1,1,1,1,0,1,1,1,0,30,1,0,Middle Eastern ,Self,NO
+579,1,1,1,1,1,0,0,1,0,1,36,0,0,Latin America,Self,NO
+155,1,0,0,0,1,0,1,0,1,1,31,1,0,North American,Self,NO
+12,0,1,0,1,1,1,1,0,0,0,18,0,0,Asian,Parent,NO
+126,1,1,0,0,1,1,1,1,1,0,26,0,0,North American,Self,NO
+586,1,0,1,1,0,0,1,0,1,1,47,0,0,North American,Self,NO
+161,0,0,0,0,0,0,0,0,0,0,36,1,0,European,Parent,NO
+272,1,1,1,1,0,0,0,1,0,1,33,0,0,European,Parent,NO
+132,1,0,0,0,0,0,0,1,1,0,24,1,0,Middle Eastern ,Self,NO
+444,1,1,1,1,1,0,0,1,1,1,23,0,0,North American,Self,NO
+255,1,0,1,0,0,0,1,0,1,1,36,1,0,Middle Eastern ,Self,NO
+640,1,0,0,0,1,1,1,1,0,0,49,1,0,African,Parent,NO
+83,1,1,1,1,1,1,1,1,0,0,33,0,0,Latin America,Self,NO
+561,1,1,1,1,1,1,1,0,0,0,39,0,0,Latin America,Self,NO
+198,1,0,1,1,1,1,1,1,0,0,38,1,0,Asian,Self,NO
+685,1,0,1,0,0,0,0,1,0,1,53,1,0,Middle Eastern ,Relative,NO
+565,0,1,0,0,1,1,0,0,1,1,19,1,0,Middle Eastern ,Others,NO
+613,1,1,1,1,0,0,0,0,0,0,27,0,0,Latin America,Self,NO
+552,1,0,0,0,1,0,0,0,0,0,42,0,0,Latin America,Self,NO
+281,1,0,0,0,0,0,0,0,0,1,29,0,0,Asian,Self,NO
+362,0,0,0,0,0,1,0,1,1,0,19,0,0,North American,Others,NO
+676,1,1,1,1,0,0,0,0,0,1,24,0,1,Middle Eastern ,Self,NO
+481,1,0,0,0,1,0,1,1,1,0,29,0,0,European,Self,NO
+622,1,0,1,1,1,0,1,1,1,0,24,0,0,European,Self,NO
+157,1,0,0,0,0,1,0,1,1,1,29,0,0,North American,Self,NO
+386,1,0,1,0,0,0,0,0,0,0,20,0,0,North American,Others,NO
+520,0,0,1,1,0,0,0,0,0,1,38,1,0,Latin America,Self,NO
+417,1,0,0,0,0,0,1,1,0,0,31,1,1,European,Self,NO
+668,0,0,1,0,0,0,1,1,1,0,50,0,0,Latin America,Parent,NO
+110,1,0,0,0,0,1,1,0,0,0,19,0,0,European,Parent,NO
+472,1,1,1,1,1,0,1,1,1,0,25,1,0,Middle Eastern ,Self,NO
+308,1,0,0,1,1,1,1,1,1,0,20,0,0,Middle Eastern ,Self,NO
+632,0,0,0,0,0,0,1,0,1,1,27,1,0,North American,Self,NO
+692,1,0,0,1,0,0,1,1,0,1,24,1,0,African,Self,NO
+585,1,1,1,1,1,0,0,1,1,0,30,1,0,European,Self,NO
+95,1,1,1,1,1,0,0,1,1,0,42,0,0,Latin America,Self,NO
+184,0,0,1,1,1,0,0,0,0,1,34,1,0,Asian,Self,NO
+120,1,1,1,1,1,1,0,0,1,1,42,1,0,North American,Self,NO
+182,1,1,1,1,1,0,0,0,0,1,18,0,0,North American,Self,NO
+619,0,1,0,0,0,0,0,0,1,0,23,0,0,North American,Self,NO
+523,1,1,1,1,1,0,1,0,0,0,47,0,1,Latin America,Self,NO
+347,1,0,0,0,1,0,1,1,1,0,21,1,0,Asian,Others,NO
+703,1,0,0,1,1,0,1,0,0,1,35,1,0,Latin America,Self,NO
+247,1,0,0,1,1,0,1,1,0,0,20,1,0,North American,Self,NO
+45,1,1,1,1,1,1,0,1,1,0,27,0,0,African,Self,NO
+207,1,1,1,1,1,1,1,1,1,1,20,1,0,European,Parent,NO
+509,1,1,1,1,1,1,1,1,1,1,46,0,1,African,Self,NO
+627,1,0,1,0,0,0,0,1,0,1,21,1,1,Latin America,Self,NO
+166,1,0,0,0,1,0,1,1,1,0,42,1,0,Middle Eastern ,Self,NO
+222,0,0,1,0,0,0,0,0,1,1,27,0,0,African,Others,NO
+227,1,1,1,1,1,1,1,0,1,1,17,1,1,African,Relative,NO
+636,0,1,1,0,0,0,1,0,1,0,36,1,0,Latin America,Self,NO
+542,0,1,0,0,0,0,0,0,1,0,49,0,1,African,Parent,NO
+446,1,0,0,0,0,0,0,1,1,1,21,1,0,Latin America,Self,NO
+419,1,0,0,0,0,0,1,0,1,0,21,0,0,European,Self,NO
+357,1,0,0,1,0,0,0,1,0,1,22,1,0,Asian,Parent,NO
+519,0,1,0,0,0,0,0,0,1,1,50,0,0,Asian,Others,NO
+555,1,1,1,1,1,1,0,1,0,1,38,1,0,Asian,Relative,NO
+701,1,0,0,0,0,0,0,1,0,1,34,1,0,Latin America,Parent,NO
+466,1,0,0,0,0,1,0,0,0,1,18,1,0,Asian,Self,NO
+356,0,0,0,0,1,0,0,1,1,1,19,1,0,Middle Eastern ,Parent,NO
+392,1,0,1,1,1,0,0,0,0,0,21,1,0,European,Self,NO
+327,1,1,1,0,1,0,0,1,0,0,18,1,0,Middle Eastern ,Relative,NO
+208,1,1,1,0,1,0,0,1,1,1,25,0,0,North American,Self,NO
+475,1,0,0,1,1,0,1,0,0,0,27,0,0,Asian,Self,NO
+194,1,0,0,0,0,0,0,1,1,0,32,0,0,Middle Eastern ,Self,NO
+672,1,1,1,1,1,0,0,1,1,1,21,1,0,Latin America,Self,NO
+598,1,0,0,0,1,0,1,1,0,1,24,1,0,Middle Eastern ,Self,NO
+177,1,1,1,1,1,1,0,1,0,0,43,0,0,African,Self,NO
+123,1,0,0,0,0,0,0,0,0,1,20,0,0,Latin America,Self,NO
+492,0,0,0,0,0,0,0,0,1,0,31,0,0,Latin America,Self,NO
+37,0,1,1,0,1,0,0,1,1,1,50,1,0,Asian,Self,YES
+454,0,0,1,1,1,0,0,0,0,1,19,0,1,North American,Health care professional,YES
+248,0,0,1,1,0,1,0,1,0,0,23,1,0,North American,Self,YES
+162,0,1,0,0,0,0,0,1,0,1,32,0,0,African,Self,YES
+643,0,0,0,0,1,0,0,1,1,0,31,0,0,African,Others,YES
+312,0,0,1,1,1,0,0,1,1,1,36,1,1,North American,Self,YES
+607,1,0,0,0,0,0,1,1,1,1,25,1,0,Asian,Self,YES
+502,1,1,0,1,1,1,0,1,1,0,42,0,1,European,Self,YES
+18,0,0,0,0,0,0,0,1,0,1,30,1,0,European,Self,YES
+195,0,1,0,1,0,0,0,1,1,1,31,1,0,Asian,Self,YES
+252,1,0,0,1,0,0,1,1,0,0,24,1,0,European,Self,YES
+266,1,1,1,0,1,0,1,1,0,0,30,1,0,European,Self,YES
+289,0,0,0,0,0,0,0,0,1,0,44,0,0,European,Self,YES
+263,1,0,0,0,0,0,1,1,0,0,26,1,0,European,Self,YES
+2,1,1,0,1,0,0,0,1,0,0,24,1,0,African,Self,YES
+276,0,1,1,1,0,0,0,0,1,0,26,1,0,European,Others,YES
+572,1,0,0,0,0,0,0,1,1,1,47,1,0,African,Others,YES
+368,0,0,1,1,0,0,1,0,0,1,20,1,0,North American,Self,YES
+360,0,0,1,0,0,0,0,0,1,1,20,1,0,North American,Self,YES
+235,0,1,1,0,0,0,0,0,0,0,24,1,0,European,Self,YES
+557,1,1,0,0,0,0,0,1,1,1,32,1,0,African,Others,YES
+348,0,0,0,0,0,0,0,1,1,0,23,1,0,European,Others,YES
+209,1,1,1,1,0,0,1,1,0,0,50,1,0,Latin America,Self,YES
+342,1,1,1,1,1,0,0,1,1,0,19,1,0,African,Others,YES
+96,1,1,0,0,0,0,0,1,1,1,37,0,0,African,Self,YES
+216,1,1,0,0,1,1,1,1,0,1,22,0,0,North American,Self,YES
+100,0,0,0,0,0,0,0,0,1,0,21,1,0,African,Self,YES
+590,1,1,1,0,0,0,0,0,0,0,21,0,0,European,Self,YES
+376,1,0,0,0,0,1,0,0,0,0,25,1,1,African,Relative,YES
+15,1,0,0,0,0,0,1,1,0,1,17,0,0,African,Others,YES
+369,1,0,1,0,1,0,0,1,1,0,20,1,0,Asian,Self,YES
+564,1,0,0,0,0,0,1,1,1,1,18,1,0,North American,Parent,YES
+393,0,1,0,0,0,1,0,1,0,1,23,0,0,Asian,Self,YES
+604,1,0,0,0,0,0,0,1,0,0,29,0,0,North American,Self,YES
+264,0,0,0,0,0,0,0,0,1,1,26,1,0,European,Self,YES
+140,0,1,0,0,0,0,0,0,0,1,40,0,0,North American,Self,YES
+370,0,0,0,0,0,0,0,1,0,1,20,1,1,Asian,Others,YES
+298,1,1,1,1,0,1,0,1,0,0,55,1,0,European,Others,YES
+522,1,1,1,1,1,0,0,1,0,0,27,0,0,Middle Eastern ,Self,YES
+486,0,1,0,0,0,0,0,1,0,0,21,1,0,European,Others,YES
+530,0,1,0,0,0,0,0,1,0,0,29,1,0,Latin America,Self,YES
+329,1,1,1,0,0,0,0,1,1,1,18,1,0,Middle Eastern ,Relative,YES
+43,0,0,1,1,0,0,0,0,0,1,34,0,0,North American,Self,YES
+239,0,1,0,0,0,0,0,1,1,1,21,1,0,Middle Eastern ,Others,YES
+134,1,0,1,1,0,0,0,1,1,0,24,1,0,Latin America,Self,YES
+452,0,0,1,1,0,0,0,1,0,0,24,1,0,Asian,Self,YES
+450,1,1,1,0,0,0,0,1,1,1,18,0,0,North American,Self,YES
+16,1,1,0,1,1,0,0,1,1,0,18,1,0,Asian,Parent,YES
+261,0,0,0,0,0,0,1,1,1,1,24,1,0,North American,Self,YES
+489,0,1,1,0,0,0,1,0,1,1,18,1,0,North American,Self,YES
+114,0,1,0,0,0,0,0,1,1,0,27,1,0,Asian,Self,YES
+145,0,0,0,0,0,0,0,1,1,0,22,1,0,African,Self,YES
+644,1,0,0,0,0,0,0,0,1,1,37,0,0,European,Parent,YES
+293,0,1,1,1,0,0,0,1,1,0,27,1,0,North American,Self,YES
+606,1,0,0,0,1,1,0,1,0,0,25,0,0,Latin America,Self,YES
+628,1,0,0,0,0,0,1,1,0,1,23,1,0,Latin America,Self,YES
+532,1,1,0,0,0,0,1,1,1,1,32,0,0,Middle Eastern ,Relative,YES
+526,1,0,0,0,0,0,1,1,0,1,19,0,0,North American,Self,YES
+527,0,0,0,1,0,0,1,1,0,0,32,1,0,Asian,Self,YES
+529,1,1,1,1,1,1,1,1,0,1,46,0,1,African,Self,YES
+231,1,0,0,0,0,0,1,1,0,1,20,1,0,North American,Self,YES
+240,1,0,0,0,0,0,0,1,1,1,23,1,0,North American,Self,YES
+108,1,1,0,1,1,0,1,1,0,0,30,0,0,European,Self,YES
+577,1,1,0,0,1,1,1,1,1,0,20,1,0,North American,Self,YES
+88,1,0,0,0,0,0,0,0,0,0,37,1,0,European,Self,YES
+580,1,1,0,0,0,0,0,1,0,1,30,0,0,African,Self,YES
+292,1,1,0,1,1,0,0,1,1,1,32,0,0,North American,Self,YES
+249,0,0,0,0,0,0,0,1,0,0,26,1,0,Asian,Self,YES
+328,0,0,0,0,1,0,0,1,1,0,18,1,0,European,Relative,YES
+687,1,0,0,0,1,0,1,1,1,1,28,1,0,Middle Eastern ,Self,YES
+378,1,0,0,0,0,1,1,1,0,1,22,1,0,European,Self,YES
+193,1,0,0,0,0,0,0,1,1,1,43,1,0,North American,Self,YES
+260,1,0,0,0,0,0,1,1,0,0,25,1,0,Middle Eastern ,Self,YES
+332,1,1,1,1,1,1,1,1,1,1,19,1,0,Latin America,Self,YES
+25,1,1,1,1,0,0,0,1,1,0,43,1,0,African,Others,YES
+215,1,1,1,1,0,0,0,0,1,1,42,1,0,Middle Eastern ,Self,YES
+584,1,1,0,1,1,1,0,1,1,0,40,0,1,North American,Relative,YES
+696,1,0,1,1,0,0,1,1,1,1,28,1,0,African,Parent,YES
+539,1,0,1,0,0,1,0,1,1,1,32,0,0,North American,Self,YES
+471,0,0,0,0,0,1,0,1,1,1,23,1,0,Latin America,Self,YES
+550,1,1,1,1,1,1,1,1,1,0,44,1,0,North American,Self,YES
+344,1,0,0,1,0,0,0,0,1,1,21,1,0,North American,Others,YES
+593,1,1,1,1,1,1,1,1,0,1,51,1,1,European,Self,YES
+418,1,1,0,1,0,0,1,1,1,0,19,1,0,North American,Self,YES
+366,1,0,0,0,0,1,0,1,0,0,20,1,0,North American,Others,YES
+228,0,1,0,0,0,0,0,0,0,0,28,1,0,European,Self,YES
+399,0,1,1,0,0,0,0,1,0,0,26,1,0,North American,Self,YES
+218,1,1,0,0,0,0,0,1,1,0,39,1,0,Latin America,Parent,YES
+301,1,0,0,1,0,0,0,1,0,0,29,1,0,Latin America,Self,YES
+428,1,0,0,1,0,0,1,1,1,1,21,1,0,European,Others,YES
+364,0,1,0,1,0,0,0,0,0,1,24,1,0,North American,Self,YES
+133,1,1,0,0,0,0,0,1,1,1,23,1,0,Asian,Self,YES
+614,1,0,0,0,0,0,0,0,1,0,22,1,0,North American,Self,YES
+390,0,1,0,0,0,0,0,1,1,0,20,0,0,Asian,Self,YES
+164,1,1,0,0,0,0,0,1,1,0,24,1,0,North American,Self,YES
+17,1,0,0,0,0,0,1,1,1,1,31,1,0,European,Self,YES
+273,1,1,1,1,1,1,1,1,1,0,46,1,0,Latin America,Self,YES
+105,0,0,0,0,1,1,0,1,1,0,21,1,0,European,Self,YES
+355,0,0,0,1,0,0,0,1,0,1,21,1,0,North American,Others,YES
+151,0,0,0,0,1,0,0,1,1,1,26,1,0,Latin America,Self,YES
+480,0,0,0,0,0,0,0,1,1,1,23,1,0,North American,Self,YES
+112,0,0,1,1,0,1,0,1,0,0,23,1,0,North American,Self,YES
+23,0,0,0,1,0,0,1,1,1,0,27,1,0,European,Self,YES
+588,1,1,1,1,1,1,0,1,1,1,21,1,0,European,Self,YES
+601,1,0,0,0,0,0,0,1,1,0,23,1,0,European,Self,YES
+667,0,0,0,0,0,0,0,1,1,1,56,1,0,European,Others,YES
+608,0,0,0,0,0,0,0,1,1,1,28,0,1,European,Self,YES
+551,1,1,0,0,0,0,0,0,0,0,46,0,0,Latin America,Self,YES
+141,0,0,1,1,0,0,0,1,0,1,23,1,0,North American,Self,YES
+684,1,1,0,0,0,0,0,1,1,1,30,0,1,European,Self,YES
+302,1,1,1,1,1,1,1,1,1,1,33,0,1,Middle Eastern ,Self,YES
+528,0,0,0,0,1,0,0,1,0,1,26,0,0,Asian,Others,YES
+317,0,1,0,0,0,0,1,1,0,0,24,0,0,European,Self,YES
+485,1,0,1,1,0,0,1,1,1,0,25,1,0,Asian,Self,YES
+470,0,0,0,0,0,0,0,1,0,0,22,0,1,North American,Self,YES
+316,1,1,0,0,0,0,0,1,1,1,20,1,0,Asian,Others,YES
+675,1,1,0,0,1,1,0,1,1,0,27,0,1,North American,Self,YES
+412,0,1,0,1,0,0,0,1,1,0,21,1,0,Middle Eastern ,Self,YES
+384,1,0,0,0,0,0,1,1,0,0,22,1,0,Asian,Others,YES
+192,1,1,0,1,0,0,0,1,1,0,42,1,1,African,Parent,YES
+346,1,0,0,0,0,0,0,0,1,0,21,1,0,Latin America,Others,YES
+236,1,0,0,0,0,0,0,1,0,1,24,1,0,African,Self,YES
+24,0,0,0,0,0,0,0,1,1,1,42,1,1,Latin America,Relative,YES
+124,1,0,0,1,1,1,1,1,0,1,30,1,1,African,Self,YES
+274,1,1,0,0,0,0,0,0,1,0,17,1,0,African,Others,YES
+7,0,1,0,0,0,0,0,1,1,1,17,0,0,Asian,Self,YES
+353,0,1,0,0,0,0,0,1,0,1,21,1,0,Asian,Others,YES
+380,0,1,0,0,1,1,0,0,0,1,20,1,0,Asian,Others,YES
+167,0,0,1,0,0,0,0,1,1,1,26,0,0,North American,Self,YES
